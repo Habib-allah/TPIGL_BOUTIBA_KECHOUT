@@ -17,8 +17,18 @@ public class VectorHelper {
         }
     }
 
+    public VectorHelper(int[] vector){
+        this.vector = vector;
 
+    }
 
+    public void setVector(int[] vector){
+        this.vector = vector;
+    }
+
+    public int[] getVector(){
+        return vector;
+    }
     public void trier() {//SELECTION SORT
         for (int i = 0; i < vector.length - 1; i++) {
             int index = i;
@@ -40,9 +50,10 @@ public class VectorHelper {
             vector[i] = vector[vector.length - i - 1];
             vector[vector.length - i - 1] = m;
         }
-        /*for (int i = 0; i < vector.length; i++) {
+        for (int i = 0; i < vector.length; i++) {
             System.out.print(vector[i] + ";");
-        }*/
+        }
+
     }
     public void somme(VectorHelper v2) throws DiffTailleException{
         int[] v3 = null;
