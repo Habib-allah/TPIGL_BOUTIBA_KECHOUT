@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class VectorHelper {
     private int vector[];
 
+
     public VectorHelper() {
         System.out.print("Entrer la taille du tableau : ");
         Scanner sc = new Scanner(System.in);
@@ -55,6 +56,13 @@ public class VectorHelper {
         }
 
     }
+
+
+    /**
+     *  Somme le vecteur de l'objet courant avec le vecteur de l'objet v2
+      * @param v2 objet VectorHelper dans lequel on trouve le vecteur a sommer avec le vecteur de l'objet courant
+     * @throws DiffTailleException si les tailles des deux tables sont differents
+     */
     public void somme(VectorHelper v2) throws DiffTailleException{
         int[] v3 = null;
 
@@ -69,19 +77,28 @@ public class VectorHelper {
         for(int i=0;i<v3.length;i++)System.out.print(v3[i]+";");
     }
 
-    public void minmax(){
+    /**
+     *Calcule le max et le min de l'attribut vecteur simultanement
+     * @return Tableau de deux elements : 1er max , 2eme min
+     */
+    public int[] minmax(){
+        int maxmin[] = null;
         if(vector != null && vector.length>0) {
+             maxmin= new int[2];
             int max = vector[0], min = vector[0];
             for (int i = 0; i < vector.length; i++) {
                 if(vector[i]>max) max = vector[i];
                 if(vector[i]<min) min = vector[i];
             }
+            maxmin[0]=max;
+            maxmin[1]=min;
             System.out.println("max = "+ max);
             System.out.println("min = "+ min);
 
 
 
         }
+        return maxmin;
     }
 
 }
