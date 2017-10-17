@@ -5,7 +5,6 @@ public class Main {
         VectorHelper v=new VectorHelper();
         System.out.println(" ");
         v.inverser();
-
     }
 
 }
