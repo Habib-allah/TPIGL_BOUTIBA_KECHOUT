@@ -4,7 +4,9 @@ import java.util.Scanner;
 public class VectorHelper {
     private int vector[];
 
-
+    /**
+     * Donne la main a l'utilisateur pour entrer la taille de l'attribut vector puis le rempli aleatoirement avec des entiers
+     */
     public VectorHelper() {
         System.out.print("Entrer la taille du tableau : ");
         Scanner sc = new Scanner(System.in);
@@ -18,6 +20,10 @@ public class VectorHelper {
         }
     }
 
+    /**
+     * Passe un vecteur a l'objet courant
+     * @param vector un vecteur de taille n
+     */
     public VectorHelper(int[] vector){
         this.vector = vector;
 
@@ -30,6 +36,10 @@ public class VectorHelper {
     public int[] getVector(){
         return vector;
     }
+
+    /**
+     * Trier un vecteur dans l'ordre croissant avec le tri selection
+     */
     public void trier() {//SELECTION SORT
         for (int i = 0; i < vector.length - 1; i++) {
             int index = i;
@@ -46,7 +56,7 @@ public class VectorHelper {
     }
 
     /**
-     *
+     *Inverse les elements de vector par exemple le 1er element devient le dernier et l'inverse
      */
     public void inverser() {
         int m;
@@ -81,7 +91,7 @@ public class VectorHelper {
     }
 
     /**
-     *Calcule le max et le min de l'attribut vecteur simultanement
+     *Calcule le max et le min de l'attribut vector simultanement
      * @return Tableau de deux elements : 1er max , 2eme min
      */
     public int[] minmax(){
@@ -99,9 +109,19 @@ public class VectorHelper {
         }
         return maxmin;
     }
+
+    /**
+     * La formule a appliquer sur les elements de vector dans la methode appliquerFormule
+     * @param v element sur lequel on applique la formule
+     * @return f(v)
+     */
     public int f(int v){
         return v*2;
     }
+
+    /**
+     * Appliquer la formule f a tous les elements du vecteur vector
+     */
     public void appliquerFormule(){
         for(int i=0;i<vector.length;i++){
             vector[i]=f(vector[i]);
