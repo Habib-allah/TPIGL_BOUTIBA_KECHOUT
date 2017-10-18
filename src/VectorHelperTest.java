@@ -30,5 +30,11 @@ public class VectorHelperTest {
         assertArrayEquals("not inversed2",new int[]{5,7,6,5},v.getVector());
 
     }
+    @Test
+    public void AppliquerFormule() throws Exception{
+        VectorHelper v = new VectorHelper(new int[]{1,2,3,9,6});
+        v.appliquerFormule();
+        assertArrayEquals("not applyed",new int[]{v.f(1),v.f(2),v.f(3),v.f(9),v.f(6)},v.getVector());
+    }
 
 }

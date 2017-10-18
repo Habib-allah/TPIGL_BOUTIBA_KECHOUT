@@ -95,10 +95,17 @@ public class VectorHelper {
             System.out.println("max = "+ max);
             System.out.println("min = "+ min);
 
-
-
         }
         return maxmin;
+    }
+    public int f(int v){
+        return v*2;
+    }
+    public void appliquerFormule(){
+        for(int i=0;i<vector.length;i++){
+            vector[i]=f(vector[i]);
+        }
+
     }
 
 }
