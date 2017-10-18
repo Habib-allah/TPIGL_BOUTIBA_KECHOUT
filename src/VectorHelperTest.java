@@ -2,9 +2,6 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-/**
- * Created by Karim on 17/10/2017.
- */
 public class VectorHelperTest {
     @Test
     public void trier() throws Exception {
