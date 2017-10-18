@@ -44,6 +44,10 @@ public class VectorHelper {
         }
 
     }
+
+    /**
+     *
+     */
     public void inverser() {
         int m;
         for (int i = 0; i < vector.length / 2; i++) {
@@ -54,7 +58,6 @@ public class VectorHelper {
         for (int i = 0; i < vector.length; i++) {
             System.out.print(vector[i] + ";");
         }
-
     }
 
 
@@ -63,7 +66,7 @@ public class VectorHelper {
       * @param v2 objet VectorHelper dans lequel on trouve le vecteur a sommer avec le vecteur de l'objet courant
      * @throws DiffTailleException si les tailles des deux tables sont differents
      */
-    public void somme(VectorHelper v2) throws DiffTailleException{
+    public int[] somme(VectorHelper v2) throws DiffTailleException{
         int[] v3 = null;
 
         if(vector.length != v2.vector.length){
@@ -74,7 +77,7 @@ public class VectorHelper {
                 v3[i] = vector[i] + v2.vector[i];
             }
         }
-        for(int i=0;i<v3.length;i++)System.out.print(v3[i]+";");
+        return v3;
     }
 
     /**
@@ -92,8 +95,6 @@ public class VectorHelper {
             }
             maxmin[0]=max;
             maxmin[1]=min;
-            System.out.println("max = "+ max);
-            System.out.println("min = "+ min);
 
         }
         return maxmin;
