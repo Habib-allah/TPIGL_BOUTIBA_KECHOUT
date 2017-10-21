@@ -5,7 +5,7 @@ public class VectorHelper {
     private int vector[];
 
     /**
-     * Donne la main a l'utilisateur pour entrer la taille de l'attribut vector puis le rempli aleatoirement avec des entiers
+     * Constructeur sans parametres au cas ou l'utilisaeur veut entrer une taille precise pour le tableau VECTOR
      */
     public VectorHelper() {
         System.out.print("Entrer la taille du tableau : ");
@@ -21,52 +21,56 @@ public class VectorHelper {
     }
 
     /**
-     * Passe un vecteur a l'objet courant
-     * @param vector un vecteur de taille n
+     * Un deuxieme constructeur !
+     * @param vector tableau qui va etre associé à un objet VectorHelper
      */
     public VectorHelper(int[] vector){
         this.vector = vector;
-
     }
 
+
+    /**
+     * Setter
+     * @param vector tableau qui va etre associé à un objet VectorHelper
+     */
     public void setVector(int[] vector){
         this.vector = vector;
     }
 
+    /**
+     * Getter
+     * @return l'attribut vector d'un objet VectorHelper..
+     */
     public int[] getVector(){
         return vector;
     }
 
     /**
-     * Trier un vecteur dans l'ordre croissant avec le tri selection
+     * Tri par "Selection" d'un tableau
      */
-    public void trier() {//SELECTION SORT
+    public void trier() {
         for (int i = 0; i < vector.length - 1; i++) {
-            int index = i;
+            int ind = i;
             for (int j = i + 1; j < vector.length; j++) {
-                if (vector[j] < vector[index]) {
-                    index = j;
+                if (vector[j] < vector[ind]) {
+                    ind = j;
                 }
             }
-            int smallerNumber = vector[index];
-            vector[index] = vector[i];
-            vector[i] = smallerNumber;
+            int min = vector[ind];
+            vector[ind] = vector[i];
+            vector[i] = min;
         }
-
     }
-
     /**
      *Inverse les elements de vector par exemple le 1er element devient le dernier et l'inverse
      */
+
     public void inverser() {
         int m;
         for (int i = 0; i < vector.length / 2; i++) {
             m = vector[i];
             vector[i] = vector[vector.length - i - 1];
             vector[vector.length - i - 1] = m;
-        }
-        for (int i = 0; i < vector.length; i++) {
-            System.out.print(vector[i] + ";");
         }
     }
 
@@ -91,7 +95,7 @@ public class VectorHelper {
     }
 
     /**
-     *Calcule le max et le min de l'attribut vector simultanement
+     *Calcule le max et le min de l'attribut vecteur simultanement
      * @return Tableau de deux elements : 1er max , 2eme min
      */
     public int[] minmax(){
@@ -109,7 +113,6 @@ public class VectorHelper {
         }
         return maxmin;
     }
-
     /**
      * La formule a appliquer sur les elements de vector dans la methode appliquerFormule
      * @param v element sur lequel on applique la formule
@@ -118,6 +121,7 @@ public class VectorHelper {
     public int f(int v){
         return v*2;
     }
+
 
     /**
      * Appliquer la formule f a tous les elements du vecteur vector
