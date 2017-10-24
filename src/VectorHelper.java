@@ -8,7 +8,6 @@ public class VectorHelper {
      * Constructeur sans parametres au cas ou l'utilisaeur veut entrer une taille precise pour le tableau VECTOR
      */
     public VectorHelper() {
-<<<<<<< HEAD
 
         System.out.println("Marhaban Entrer la taille du tableau : ");
         Scanner sc = new Scanner(System.in);
