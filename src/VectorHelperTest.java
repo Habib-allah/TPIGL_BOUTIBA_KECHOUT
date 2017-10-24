@@ -58,4 +58,5 @@ public class VectorHelperTest {
         assertArrayEquals("not applyed",new int[]{v.f(1),v.f(2),v.f(3),v.f(9),v.f(6)},v.getVector());
     }
 
+
 }
