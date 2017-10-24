@@ -9,7 +9,6 @@ public class VectorHelper {
      */
     public VectorHelper() {
 
-        System.out.println("Marhaban Entrer la taille du tableau : ");
         System.out.println("Weshrakchuia Entrer la taille du tableau : ");
         Scanner sc = new Scanner(System.in);
         vector = new int[sc.nextInt()];
