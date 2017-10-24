@@ -9,9 +9,8 @@ public class VectorHelper {
      */
     public VectorHelper() {
 <<<<<<< HEAD
+
         System.out.println("Marhaban Entrer la taille du tableau : ");
-=======
->>>>>>> branchConflict
         Scanner sc = new Scanner(System.in);
         vector = new int[sc.nextInt()];
         Random r = new Random();
