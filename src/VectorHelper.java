@@ -8,7 +8,7 @@ public class VectorHelper {
      * Constructeur sans parametres au cas ou l'utilisaeur veut entrer une taille precise pour le tableau VECTOR
      */
     public VectorHelper() {
-        System.out.print("Entrer la taille du tableau : ");
+        System.out.print("Holla!!!!!entrer la taille du tableau : ");
         Scanner sc = new Scanner(System.in);
         vector = new int[sc.nextInt()];
         Random r = new Random();
