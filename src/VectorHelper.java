@@ -8,7 +8,9 @@ public class VectorHelper {
      * Constructeur sans parametres au cas ou l'utilisaeur veut entrer une taille precise pour le tableau VECTOR
      */
     public VectorHelper() {
+<<<<<<< HEAD
         System.out.println("Hiiii Entrer la taille du tableau : ");
+>>>>>>> 562e2ef0da87cce9836a2701bb1a0e0bf0ab2fe7
         Scanner sc = new Scanner(System.in);
         vector = new int[sc.nextInt()];
         Random r = new Random();
@@ -122,6 +124,11 @@ public class VectorHelper {
     public int f(int v){
         return v*2;
     }
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 562e2ef0da87cce9836a2701bb1a0e0bf0ab2fe7
     /**
      * Appliquer la formule f a tous les elements du vecteur vector
      */
@@ -133,3 +140,7 @@ public class VectorHelper {
     }
 
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 562e2ef0da87cce9836a2701bb1a0e0bf0ab2fe7

@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 562e2ef0da87cce9836a2701bb1a0e0bf0ab2fe7
     <list default="true" id="94c21d45-e659-4c7f-b770-66c121128a7d" name="Default" comment="" />
 =======
     <list default="true" id="94c21d45-e659-4c7f-b770-66c121128a7d" name="Default" comment="">
@@ -11,6 +14,7 @@
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
 >>>>>>> 907d8924572697266cde7b7914dbd12b3a27e6d2
+<<<<<<< HEAD
 =======
     <list default="true" id="1e31075e-b17e-467e-92a7-2a5f34f57c6f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/TPIGL_BOUTIBA_KECHOUT/VectorHelper.class" afterPath="$PROJECT_DIR$/out/production/TPIGL_BOUTIBA_KECHOUT/VectorHelper.class" />
@@ -22,6 +26,8 @@
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
 >>>>>>> master
+=======
+>>>>>>> 562e2ef0da87cce9836a2701bb1a0e0bf0ab2fe7
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +35,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
     <SUITE FILE_PATH="coverage/TPIGL_BOUTIBA_KECHOUT$VectorHelperTest_minMaxTest.coverage" NAME="VectorHelperTest.minMaxTest Coverage Results" MODIFIED="1508312566812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/TPIGL_BOUTIBA_KECHOUT$Main.coverage" NAME="Main Coverage Results" MODIFIED="1508309475403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
@@ -38,6 +45,11 @@
     <SUITE FILE_PATH="coverage/TPIGL_BOUTIBA_KECHOUT$VectorHelperTest.coverage" NAME="VectorHelperTest Coverage Results" MODIFIED="1508313342551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/TPIGL_BOUTIBA_KECHOUT$VectorHelperTest_inverser.coverage" NAME="VectorHelperTest.inverser Coverage Results" MODIFIED="1508282234127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
 >>>>>>> master
+=======
+    <SUITE FILE_PATH="coverage/TPIGL_BOUTIBA_KECHOUT$VectorHelperTest_minMaxTest.coverage" NAME="VectorHelperTest.minMaxTest Coverage Results" MODIFIED="1508312566812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/TPIGL_BOUTIBA_KECHOUT$Main.coverage" NAME="Main Coverage Results" MODIFIED="1508309475403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/TPIGL_BOUTIBA_KECHOUT$VectorHelperTest.coverage" NAME="VectorHelperTest Coverage Results" MODIFIED="1508312980466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+>>>>>>> 562e2ef0da87cce9836a2701bb1a0e0bf0ab2fe7
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -46,6 +58,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 562e2ef0da87cce9836a2701bb1a0e0bf0ab2fe7
       <file leaf-file-name="VectorHelperTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/VectorHelperTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -105,6 +120,7 @@
 <<<<<<< HEAD
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+<<<<<<< HEAD
 =======
       <file leaf-file-name="VectorHelperTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/VectorHelperTest.java">
@@ -112,6 +128,8 @@
             <state relative-caret-position="190">
               <caret line="36" column="83" lean-forward="false" selection-start-line="36" selection-start-column="83" selection-end-line="36" selection-end-column="83" />
 >>>>>>> master
+=======
+>>>>>>> 562e2ef0da87cce9836a2701bb1a0e0bf0ab2fe7
               <folding />
 =======
             <state relative-caret-position="524">
@@ -135,6 +153,7 @@
     </leaf>
   </component>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -153,6 +172,8 @@
     </option>
   </component>
 >>>>>>> master
+=======
+>>>>>>> 562e2ef0da87cce9836a2701bb1a0e0bf0ab2fe7
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -191,9 +212,13 @@
     </navigator>
     <panes>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <pane id="Scope" />
 =======
 >>>>>>> master
+=======
+      <pane id="Scope" />
+>>>>>>> 562e2ef0da87cce9836a2701bb1a0e0bf0ab2fe7
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -240,6 +265,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+<<<<<<< HEAD
               <option name="myItemId" value="out" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -272,6 +298,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+=======
+>>>>>>> 562e2ef0da87cce9836a2701bb1a0e0bf0ab2fe7
               <option name="myItemId" value=".idea" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -279,6 +307,9 @@
         </subPane>
       </pane>
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 562e2ef0da87cce9836a2701bb1a0e0bf0ab2fe7
       <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
@@ -904,6 +935,7 @@
   <component name="TaskManager">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     <task active="true" id="Default" summary="Default task">
       <changelist id="1e31075e-b17e-467e-92a7-2a5f34f57c6f" name="Default" comment="" />
@@ -944,6 +976,26 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+=======
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="102000" />
+=======
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94c21d45-e659-4c7f-b770-66c121128a7d" name="Default" comment="" />
+      <created>1508438081968</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508438081968</updated>
+      <workItem from="1508438091852" duration="135000" />
+      <workItem from="1508867729122" duration="25000" />
+      <workItem from="1508872487489" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+>>>>>>> 562e2ef0da87cce9836a2701bb1a0e0bf0ab2fe7
     <option name="totallyTimeSpent" value="1126000" />
 >>>>>>> 907d8924572697266cde7b7914dbd12b3a27e6d2
   </component>
@@ -970,6 +1022,7 @@
 =======
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2526475" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
 >>>>>>> 907d8924572697266cde7b7914dbd12b3a27e6d2
+<<<<<<< HEAD
 =======
     <option name="totallyTimeSpent" value="6636000" />
   </component>
@@ -985,15 +1038,21 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
 >>>>>>> master
+=======
+>>>>>>> 562e2ef0da87cce9836a2701bb1a0e0bf0ab2fe7
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 562e2ef0da87cce9836a2701bb1a0e0bf0ab2fe7
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Code Iris" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
 =======
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Code Iris" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1010,10 +1069,13 @@
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
 >>>>>>> master
+=======
+>>>>>>> 562e2ef0da87cce9836a2701bb1a0e0bf0ab2fe7
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+<<<<<<< HEAD
 <<<<<<< HEAD
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1021,6 +1083,11 @@
 =======
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
 >>>>>>> master
+=======
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32966226" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+>>>>>>> 562e2ef0da87cce9836a2701bb1a0e0bf0ab2fe7
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -1036,10 +1103,14 @@
   </component>
   <component name="editorHistoryManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/VectorHelperTest.java">
 =======
     <entry file="file://$PROJECT_DIR$/src/DiffTailleException.java">
 >>>>>>> master
+=======
+    <entry file="file://$PROJECT_DIR$/src/VectorHelperTest.java">
+>>>>>>> 562e2ef0da87cce9836a2701bb1a0e0bf0ab2fe7
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1052,18 +1123,26 @@
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <state relative-caret-position="68">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
 =======
         <state relative-caret-position="17">
           <caret line="1" column="15" lean-forward="false" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
 >>>>>>> master
+=======
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+>>>>>>> 562e2ef0da87cce9836a2701bb1a0e0bf0ab2fe7
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/VectorHelper.java">
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 562e2ef0da87cce9836a2701bb1a0e0bf0ab2fe7
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1411">
           <caret line="92" column="9" lean-forward="false" selection-start-line="92" selection-start-column="9" selection-end-line="92" selection-end-column="9" />
@@ -1082,13 +1161,17 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/VectorHelperTest.java">
+<<<<<<< HEAD
 =======
 >>>>>>> master
+=======
+>>>>>>> 562e2ef0da87cce9836a2701bb1a0e0bf0ab2fe7
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
+<<<<<<< HEAD
 <<<<<<< HEAD
           </folding>
         </state>
@@ -1130,6 +1213,8 @@
           <caret line="53" column="1" lean-forward="false" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
+=======
+>>>>>>> 562e2ef0da87cce9836a2701bb1a0e0bf0ab2fe7
           </folding>
         </state>
       </provider>
@@ -1144,6 +1229,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/VectorHelper.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+=======
+        <state relative-caret-position="1411">
+          <caret line="92" column="9" lean-forward="false" selection-start-line="92" selection-start-column="9" selection-end-line="92" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#806#807#0" expanded="true" />
+            <element signature="e#842#843#0" expanded="true" />
+            <element signature="e#988#989#0" expanded="true" />
+            <element signature="e#1024#1025#0" expanded="true" />
+            <element signature="e#1144#1145#0" expanded="true" />
+            <element signature="e#1173#1174#0" expanded="true" />
+            <element signature="e#3459#3460#0" expanded="true" />
+            <element signature="e#3485#3486#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VectorHelperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="1" lean-forward="false" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VectorHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+>>>>>>> 562e2ef0da87cce9836a2701bb1a0e0bf0ab2fe7
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
@@ -1189,8 +1313,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+<<<<<<< HEAD
 =======
 >>>>>>> master
+=======
+>>>>>>> 562e2ef0da87cce9836a2701bb1a0e0bf0ab2fe7
           <folding />
         </state>
       </provider>
@@ -1211,6 +1338,9 @@
 >>>>>>> 907d8924572697266cde7b7914dbd12b3a27e6d2
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 562e2ef0da87cce9836a2701bb1a0e0bf0ab2fe7
         <state relative-caret-position="524">
           <caret line="138" column="0" lean-forward="true" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
           <folding>
@@ -1223,6 +1353,7 @@
             <element signature="e#1173#1174#0" expanded="true" />
             <element signature="e#3459#3460#0" expanded="true" />
             <element signature="e#3485#3486#0" expanded="true" />
+<<<<<<< HEAD
 =======
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1230,15 +1361,21 @@
             <element signature="imports" expanded="true" />
             <element signature="e#2983#2984#0" expanded="true" />
 >>>>>>> master
+=======
+>>>>>>> 562e2ef0da87cce9836a2701bb1a0e0bf0ab2fe7
           </folding>
         </state>
       </provider>
     </entry>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/VectorHelper.java">
 =======
     <entry file="file://$PROJECT_DIR$/src/Main.java">
 >>>>>>> master
+=======
+    <entry file="file://$PROJECT_DIR$/src/VectorHelper.java">
+>>>>>>> 562e2ef0da87cce9836a2701bb1a0e0bf0ab2fe7
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1246,6 +1383,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
     <entry file="file://$PROJECT_DIR$/TPIGL_BOUTIBA_KECHOUT.iml">
@@ -1299,5 +1437,7 @@
       </provider>
     </entry>
 >>>>>>> master
+=======
+>>>>>>> 562e2ef0da87cce9836a2701bb1a0e0bf0ab2fe7
   </component>
 </project>
