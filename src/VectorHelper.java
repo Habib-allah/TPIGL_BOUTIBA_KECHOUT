@@ -83,6 +83,7 @@ public class VectorHelper {
     public int[] somme(VectorHelper v2) throws DiffTailleException{
         int[] v3 = null;
 
+
         if(vector.length != v2.vector.length){
             throw new DiffTailleException();
         }else{
