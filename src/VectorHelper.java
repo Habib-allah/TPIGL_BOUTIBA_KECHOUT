@@ -9,7 +9,7 @@ public class VectorHelper {
      */
     public VectorHelper() {
 
-        System.out.println("Marhaban Entrer la taille du tableau : ");
+        System.out.println("Chkoun safa9 louwel apres la presentation ?  Entrer la taille du tableau : ");
         Scanner sc = new Scanner(System.in);
         vector = new int[sc.nextInt()];
         Random r = new Random();
