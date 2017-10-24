@@ -61,6 +61,9 @@ public class VectorHelper {
             vector[i] = min;
         }
     }
+    /**
+     *Inverse les elements de vector par exemple le 1er element devient le dernier et l'inverse
+     */
 
     public void inverser() {
         int m;
@@ -74,10 +77,12 @@ public class VectorHelper {
 
     /**
      *  Somme le vecteur de l'objet courant avec le vecteur de l'objet v2
+     * @param v2 objet VectorHelper dans lequel on trouve le vecteur a sommer avec le vecteur de l'objet courant
      * @throws DiffTailleException si les tailles des deux tables sont differents
      */
     public int[] somme(VectorHelper v2) throws DiffTailleException{
         int[] v3 = null;
+
 
         if(vector.length != v2.vector.length){
             throw new DiffTailleException();
@@ -97,6 +102,7 @@ public class VectorHelper {
     public int[] minmax(){
         int maxmin[] = null;
         if(vector != null && vector.length>0) {
+            maxmin= new int[2];
             int max = vector[0], min = vector[0];
             for (int i = 0; i < vector.length; i++) {
                 if(vector[i]>max) max = vector[i];
@@ -108,9 +114,17 @@ public class VectorHelper {
         }
         return maxmin;
     }
+    /**
+     * La formule a appliquer sur les elements de vector dans la methode appliquerFormule
+     * @param v element sur lequel on applique la formule
+     * @return f(v)
+     */
     public int f(int v){
         return v*2;
     }
+    /**
+     * Appliquer la formule f a tous les elements du vecteur vector
+     */
     public void appliquerFormule(){
         for(int i=0;i<vector.length;i++){
             vector[i]=f(vector[i]);
