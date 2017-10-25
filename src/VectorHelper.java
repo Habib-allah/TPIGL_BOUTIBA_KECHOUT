@@ -12,7 +12,7 @@ public class VectorHelper {
 
 
 
-        System.out.println("Wlh jcp !  Entrer la taille du tableau : ");
+        System.out.println("KARIM ");
 
         Scanner sc = new Scanner(System.in);
         vector = new int[sc.nextInt()];
